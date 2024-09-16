@@ -1,0 +1,1482 @@
+test case: intervals_testcase_0000.txt
+
+Output From intervals_v1.exe
+
+86 1429
+
+Output From intervals_v2.exe
+
+86
+
+
+
+
+intervals_testcase_0001.txt is ok
+intervals_testcase_0002.txt is ok
+intervals_testcase_0003.txt is ok
+intervals_testcase_0004.txt is ok
+intervals_testcase_0005.txt is ok
+intervals_testcase_0006.txt is ok
+intervals_testcase_0007.txt is ok
+intervals_testcase_0008.txt is ok
+intervals_testcase_0009.txt is ok
+intervals_testcase_0010.txt is ok
+intervals_testcase_0011.txt is ok
+intervals_testcase_0012.txt is ok
+intervals_testcase_0013.txt is ok
+intervals_testcase_0014.txt is ok
+intervals_testcase_0015.txt is ok
+intervals_testcase_0016.txt is ok
+intervals_testcase_0017.txt is ok
+intervals_testcase_0018.txt is ok
+intervals_testcase_0019.txt is ok
+intervals_testcase_0020.txt is ok
+intervals_testcase_0021.txt is ok
+intervals_testcase_0022.txt is ok
+intervals_testcase_0023.txt is ok
+intervals_testcase_0024.txt is ok
+intervals_testcase_0025.txt is ok
+intervals_testcase_0026.txt is ok
+intervals_testcase_0027.txt is ok
+intervals_testcase_0028.txt is ok
+intervals_testcase_0029.txt is ok
+intervals_testcase_0030.txt is ok
+intervals_testcase_0031.txt is ok
+intervals_testcase_0032.txt is ok
+intervals_testcase_0033.txt is ok
+intervals_testcase_0034.txt is ok
+intervals_testcase_0035.txt is ok
+intervals_testcase_0036.txt is ok
+intervals_testcase_0037.txt is ok
+intervals_testcase_0038.txt is ok
+intervals_testcase_0039.txt is ok
+intervals_testcase_0040.txt is ok
+intervals_testcase_0041.txt is ok
+intervals_testcase_0042.txt is ok
+intervals_testcase_0043.txt is ok
+intervals_testcase_0044.txt is ok
+intervals_testcase_0045.txt is ok
+intervals_testcase_0046.txt is ok
+intervals_testcase_0047.txt is ok
+intervals_testcase_0048.txt is ok
+intervals_testcase_0049.txt is ok
+intervals_testcase_0050.txt is ok
+intervals_testcase_0051.txt is ok
+intervals_testcase_0052.txt is ok
+intervals_testcase_0053.txt is ok
+intervals_testcase_0054.txt is ok
+intervals_testcase_0055.txt is ok
+intervals_testcase_0056.txt is ok
+intervals_testcase_0057.txt is ok
+intervals_testcase_0058.txt is ok
+intervals_testcase_0059.txt is ok
+intervals_testcase_0060.txt is ok
+intervals_testcase_0061.txt is ok
+intervals_testcase_0062.txt is ok
+intervals_testcase_0063.txt is ok
+intervals_testcase_0064.txt is ok
+intervals_testcase_0065.txt is ok
+intervals_testcase_0066.txt is ok
+intervals_testcase_0067.txt is ok
+intervals_testcase_0068.txt is ok
+intervals_testcase_0069.txt is ok
+intervals_testcase_0070.txt is ok
+intervals_testcase_0071.txt is ok
+intervals_testcase_0072.txt is ok
+intervals_testcase_0073.txt is ok
+intervals_testcase_0074.txt is ok
+intervals_testcase_0075.txt is ok
+test case: intervals_testcase_0076.txt
+
+Output From intervals_v1.exe
+
+143 220
+582 1263
+
+Output From intervals_v2.exe
+
+143 220
+582 689
+690 1263
+
+
+
+
+intervals_testcase_0077.txt is ok
+intervals_testcase_0078.txt is ok
+intervals_testcase_0079.txt is ok
+intervals_testcase_0080.txt is ok
+intervals_testcase_0081.txt is ok
+intervals_testcase_0082.txt is ok
+intervals_testcase_0083.txt is ok
+intervals_testcase_0084.txt is ok
+intervals_testcase_0085.txt is ok
+intervals_testcase_0086.txt is ok
+intervals_testcase_0087.txt is ok
+intervals_testcase_0088.txt is ok
+intervals_testcase_0089.txt is ok
+test case: intervals_testcase_0090.txt
+
+Output From intervals_v1.exe
+
+502 1439
+
+Output From intervals_v2.exe
+
+502
+
+
+
+
+intervals_testcase_0091.txt is ok
+intervals_testcase_0092.txt is ok
+intervals_testcase_0093.txt is ok
+intervals_testcase_0094.txt is ok
+intervals_testcase_0095.txt is ok
+intervals_testcase_0096.txt is ok
+intervals_testcase_0097.txt is ok
+intervals_testcase_0098.txt is ok
+intervals_testcase_0099.txt is ok
+intervals_testcase_0100.txt is ok
+intervals_testcase_0101.txt is ok
+intervals_testcase_0102.txt is ok
+intervals_testcase_0103.txt is ok
+intervals_testcase_0104.txt is ok
+intervals_testcase_0105.txt is ok
+intervals_testcase_0106.txt is ok
+test case: intervals_testcase_0107.txt
+
+Output From intervals_v1.exe
+
+569 964
+
+Output From intervals_v2.exe
+
+569
+
+
+
+
+intervals_testcase_0108.txt is ok
+intervals_testcase_0109.txt is ok
+intervals_testcase_0110.txt is ok
+test case: intervals_testcase_0111.txt
+
+Output From intervals_v1.exe
+
+280 1371
+
+Output From intervals_v2.exe
+
+280 1307
+
+
+
+
+intervals_testcase_0112.txt is ok
+intervals_testcase_0113.txt is ok
+intervals_testcase_0114.txt is ok
+intervals_testcase_0115.txt is ok
+intervals_testcase_0116.txt is ok
+intervals_testcase_0117.txt is ok
+intervals_testcase_0118.txt is ok
+intervals_testcase_0119.txt is ok
+intervals_testcase_0120.txt is ok
+test case: intervals_testcase_0121.txt
+
+Output From intervals_v1.exe
+
+323 1427
+
+Output From intervals_v2.exe
+
+323 1401
+1407 1422
+
+
+
+
+intervals_testcase_0122.txt is ok
+intervals_testcase_0123.txt is ok
+intervals_testcase_0124.txt is ok
+intervals_testcase_0125.txt is ok
+intervals_testcase_0126.txt is ok
+intervals_testcase_0127.txt is ok
+intervals_testcase_0128.txt is ok
+intervals_testcase_0129.txt is ok
+intervals_testcase_0130.txt is ok
+intervals_testcase_0131.txt is ok
+intervals_testcase_0132.txt is ok
+intervals_testcase_0133.txt is ok
+intervals_testcase_0134.txt is ok
+intervals_testcase_0135.txt is ok
+intervals_testcase_0136.txt is ok
+intervals_testcase_0137.txt is ok
+intervals_testcase_0138.txt is ok
+intervals_testcase_0139.txt is ok
+intervals_testcase_0140.txt is ok
+intervals_testcase_0141.txt is ok
+intervals_testcase_0142.txt is ok
+intervals_testcase_0143.txt is ok
+test case: intervals_testcase_0144.txt
+
+Output From intervals_v1.exe
+
+112 1429
+
+Output From intervals_v2.exe
+
+112
+
+
+
+
+intervals_testcase_0145.txt is ok
+intervals_testcase_0146.txt is ok
+intervals_testcase_0147.txt is ok
+intervals_testcase_0148.txt is ok
+intervals_testcase_0149.txt is ok
+test case: intervals_testcase_0150.txt
+
+Output From intervals_v1.exe
+
+402 1342
+
+Output From intervals_v2.exe
+
+402 639
+733 931
+
+
+
+
+intervals_testcase_0151.txt is ok
+intervals_testcase_0152.txt is ok
+intervals_testcase_0153.txt is ok
+intervals_testcase_0154.txt is ok
+intervals_testcase_0155.txt is ok
+intervals_testcase_0156.txt is ok
+intervals_testcase_0157.txt is ok
+intervals_testcase_0158.txt is ok
+intervals_testcase_0159.txt is ok
+intervals_testcase_0160.txt is ok
+intervals_testcase_0161.txt is ok
+intervals_testcase_0162.txt is ok
+intervals_testcase_0163.txt is ok
+intervals_testcase_0164.txt is ok
+intervals_testcase_0165.txt is ok
+intervals_testcase_0166.txt is ok
+intervals_testcase_0167.txt is ok
+intervals_testcase_0168.txt is ok
+intervals_testcase_0169.txt is ok
+intervals_testcase_0170.txt is ok
+intervals_testcase_0171.txt is ok
+intervals_testcase_0172.txt is ok
+intervals_testcase_0173.txt is ok
+test case: intervals_testcase_0174.txt
+
+Output From intervals_v1.exe
+
+7 1055
+1282 1402
+
+Output From intervals_v2.exe
+
+7 1055
+1282 1344
+1345 1402
+
+
+
+
+intervals_testcase_0175.txt is ok
+intervals_testcase_0176.txt is ok
+intervals_testcase_0177.txt is ok
+intervals_testcase_0178.txt is ok
+intervals_testcase_0179.txt is ok
+intervals_testcase_0180.txt is ok
+intervals_testcase_0181.txt is ok
+intervals_testcase_0182.txt is ok
+intervals_testcase_0183.txt is ok
+intervals_testcase_0184.txt is ok
+intervals_testcase_0185.txt is ok
+test case: intervals_testcase_0186.txt
+
+Output From intervals_v1.exe
+
+634 946
+1054 1073
+1235 1432
+
+Output From intervals_v2.exe
+
+634 744
+1257 1302
+1367 1429
+
+
+
+
+intervals_testcase_0187.txt is ok
+intervals_testcase_0188.txt is ok
+intervals_testcase_0189.txt is ok
+intervals_testcase_0190.txt is ok
+intervals_testcase_0191.txt is ok
+intervals_testcase_0192.txt is ok
+intervals_testcase_0193.txt is ok
+intervals_testcase_0194.txt is ok
+intervals_testcase_0195.txt is ok
+intervals_testcase_0196.txt is ok
+intervals_testcase_0197.txt is ok
+intervals_testcase_0198.txt is ok
+intervals_testcase_0199.txt is ok
+intervals_testcase_0200.txt is ok
+intervals_testcase_0201.txt is ok
+intervals_testcase_0202.txt is ok
+intervals_testcase_0203.txt is ok
+intervals_testcase_0204.txt is ok
+intervals_testcase_0205.txt is ok
+intervals_testcase_0206.txt is ok
+intervals_testcase_0207.txt is ok
+intervals_testcase_0208.txt is ok
+intervals_testcase_0209.txt is ok
+intervals_testcase_0210.txt is ok
+intervals_testcase_0211.txt is ok
+intervals_testcase_0212.txt is ok
+intervals_testcase_0213.txt is ok
+intervals_testcase_0214.txt is ok
+intervals_testcase_0215.txt is ok
+intervals_testcase_0216.txt is ok
+intervals_testcase_0217.txt is ok
+intervals_testcase_0218.txt is ok
+intervals_testcase_0219.txt is ok
+intervals_testcase_0220.txt is ok
+intervals_testcase_0221.txt is ok
+intervals_testcase_0222.txt is ok
+intervals_testcase_0223.txt is ok
+intervals_testcase_0224.txt is ok
+intervals_testcase_0225.txt is ok
+intervals_testcase_0226.txt is ok
+intervals_testcase_0227.txt is ok
+intervals_testcase_0228.txt is ok
+intervals_testcase_0229.txt is ok
+intervals_testcase_0230.txt is ok
+intervals_testcase_0231.txt is ok
+intervals_testcase_0232.txt is ok
+intervals_testcase_0233.txt is ok
+intervals_testcase_0234.txt is ok
+intervals_testcase_0235.txt is ok
+intervals_testcase_0236.txt is ok
+intervals_testcase_0237.txt is ok
+intervals_testcase_0238.txt is ok
+intervals_testcase_0239.txt is ok
+intervals_testcase_0240.txt is ok
+intervals_testcase_0241.txt is ok
+intervals_testcase_0242.txt is ok
+intervals_testcase_0243.txt is ok
+intervals_testcase_0244.txt is ok
+intervals_testcase_0245.txt is ok
+intervals_testcase_0246.txt is ok
+intervals_testcase_0247.txt is ok
+intervals_testcase_0248.txt is ok
+intervals_testcase_0249.txt is ok
+intervals_testcase_0250.txt is ok
+intervals_testcase_0251.txt is ok
+test case: intervals_testcase_0252.txt
+
+Output From intervals_v1.exe
+
+96 350
+394 1322
+1373 1408
+
+Output From intervals_v2.exe
+
+96 350
+394 1276
+1277 1322
+1373 1408
+
+
+
+
+intervals_testcase_0253.txt is ok
+intervals_testcase_0254.txt is ok
+intervals_testcase_0255.txt is ok
+intervals_testcase_0256.txt is ok
+intervals_testcase_0257.txt is ok
+intervals_testcase_0258.txt is ok
+intervals_testcase_0259.txt is ok
+intervals_testcase_0260.txt is ok
+intervals_testcase_0261.txt is ok
+intervals_testcase_0262.txt is ok
+intervals_testcase_0263.txt is ok
+intervals_testcase_0264.txt is ok
+intervals_testcase_0265.txt is ok
+intervals_testcase_0266.txt is ok
+intervals_testcase_0267.txt is ok
+intervals_testcase_0268.txt is ok
+intervals_testcase_0269.txt is ok
+intervals_testcase_0270.txt is ok
+intervals_testcase_0271.txt is ok
+intervals_testcase_0272.txt is ok
+intervals_testcase_0273.txt is ok
+intervals_testcase_0274.txt is ok
+intervals_testcase_0275.txt is ok
+intervals_testcase_0276.txt is ok
+test case: intervals_testcase_0277.txt
+
+Output From intervals_v1.exe
+
+647 1440
+
+Output From intervals_v2.exe
+
+647 1423
+
+
+
+
+intervals_testcase_0278.txt is ok
+intervals_testcase_0279.txt is ok
+test case: intervals_testcase_0280.txt
+
+Output From intervals_v1.exe
+
+403 1415
+
+Output From intervals_v2.exe
+
+403
+
+
+
+
+intervals_testcase_0281.txt is ok
+intervals_testcase_0282.txt is ok
+test case: intervals_testcase_0283.txt
+
+Output From intervals_v1.exe
+
+85 694
+1127 1169
+1208 1440
+
+Output From intervals_v2.exe
+
+85
+
+
+
+
+intervals_testcase_0284.txt is ok
+intervals_testcase_0285.txt is ok
+intervals_testcase_0286.txt is ok
+intervals_testcase_0287.txt is ok
+intervals_testcase_0288.txt is ok
+intervals_testcase_0289.txt is ok
+intervals_testcase_0290.txt is ok
+intervals_testcase_0291.txt is ok
+intervals_testcase_0292.txt is ok
+intervals_testcase_0293.txt is ok
+intervals_testcase_0294.txt is ok
+intervals_testcase_0295.txt is ok
+intervals_testcase_0296.txt is ok
+intervals_testcase_0297.txt is ok
+intervals_testcase_0298.txt is ok
+intervals_testcase_0299.txt is ok
+intervals_testcase_0300.txt is ok
+intervals_testcase_0301.txt is ok
+test case: intervals_testcase_0302.txt
+
+Output From intervals_v1.exe
+
+545 613
+764 1392
+
+Output From intervals_v2.exe
+
+545 613
+764
+
+
+
+
+intervals_testcase_0303.txt is ok
+intervals_testcase_0304.txt is ok
+intervals_testcase_0305.txt is ok
+intervals_testcase_0306.txt is ok
+intervals_testcase_0307.txt is ok
+intervals_testcase_0308.txt is ok
+intervals_testcase_0309.txt is ok
+intervals_testcase_0310.txt is ok
+intervals_testcase_0311.txt is ok
+intervals_testcase_0312.txt is ok
+intervals_testcase_0313.txt is ok
+intervals_testcase_0314.txt is ok
+intervals_testcase_0315.txt is ok
+intervals_testcase_0316.txt is ok
+intervals_testcase_0317.txt is ok
+intervals_testcase_0318.txt is ok
+intervals_testcase_0319.txt is ok
+intervals_testcase_0320.txt is ok
+intervals_testcase_0321.txt is ok
+intervals_testcase_0322.txt is ok
+intervals_testcase_0323.txt is ok
+intervals_testcase_0324.txt is ok
+intervals_testcase_0325.txt is ok
+intervals_testcase_0326.txt is ok
+intervals_testcase_0327.txt is ok
+intervals_testcase_0328.txt is ok
+intervals_testcase_0329.txt is ok
+intervals_testcase_0330.txt is ok
+intervals_testcase_0331.txt is ok
+intervals_testcase_0332.txt is ok
+intervals_testcase_0333.txt is ok
+intervals_testcase_0334.txt is ok
+intervals_testcase_0335.txt is ok
+intervals_testcase_0336.txt is ok
+intervals_testcase_0337.txt is ok
+intervals_testcase_0338.txt is ok
+intervals_testcase_0339.txt is ok
+intervals_testcase_0340.txt is ok
+intervals_testcase_0341.txt is ok
+intervals_testcase_0342.txt is ok
+intervals_testcase_0343.txt is ok
+intervals_testcase_0344.txt is ok
+intervals_testcase_0345.txt is ok
+intervals_testcase_0346.txt is ok
+intervals_testcase_0347.txt is ok
+intervals_testcase_0348.txt is ok
+intervals_testcase_0349.txt is ok
+intervals_testcase_0350.txt is ok
+intervals_testcase_0351.txt is ok
+intervals_testcase_0352.txt is ok
+intervals_testcase_0353.txt is ok
+test case: intervals_testcase_0354.txt
+
+Output From intervals_v1.exe
+
+267 1433
+
+Output From intervals_v2.exe
+
+267 1428
+1429 1433
+
+
+
+
+intervals_testcase_0355.txt is ok
+intervals_testcase_0356.txt is ok
+intervals_testcase_0357.txt is ok
+intervals_testcase_0358.txt is ok
+intervals_testcase_0359.txt is ok
+intervals_testcase_0360.txt is ok
+intervals_testcase_0361.txt is ok
+intervals_testcase_0362.txt is ok
+intervals_testcase_0363.txt is ok
+intervals_testcase_0364.txt is ok
+intervals_testcase_0365.txt is ok
+intervals_testcase_0366.txt is ok
+intervals_testcase_0367.txt is ok
+intervals_testcase_0368.txt is ok
+intervals_testcase_0369.txt is ok
+intervals_testcase_0370.txt is ok
+intervals_testcase_0371.txt is ok
+intervals_testcase_0372.txt is ok
+intervals_testcase_0373.txt is ok
+intervals_testcase_0374.txt is ok
+intervals_testcase_0375.txt is ok
+intervals_testcase_0376.txt is ok
+intervals_testcase_0377.txt is ok
+intervals_testcase_0378.txt is ok
+intervals_testcase_0379.txt is ok
+intervals_testcase_0380.txt is ok
+test case: intervals_testcase_0381.txt
+
+Output From intervals_v1.exe
+
+168 433
+468 705
+797 1430
+
+Output From intervals_v2.exe
+
+168 433
+468 705
+797
+
+
+
+
+intervals_testcase_0382.txt is ok
+intervals_testcase_0383.txt is ok
+intervals_testcase_0384.txt is ok
+intervals_testcase_0385.txt is ok
+intervals_testcase_0386.txt is ok
+intervals_testcase_0387.txt is ok
+intervals_testcase_0388.txt is ok
+intervals_testcase_0389.txt is ok
+intervals_testcase_0390.txt is ok
+intervals_testcase_0391.txt is ok
+intervals_testcase_0392.txt is ok
+intervals_testcase_0393.txt is ok
+intervals_testcase_0394.txt is ok
+intervals_testcase_0395.txt is ok
+intervals_testcase_0396.txt is ok
+intervals_testcase_0397.txt is ok
+intervals_testcase_0398.txt is ok
+intervals_testcase_0399.txt is ok
+intervals_testcase_0400.txt is ok
+intervals_testcase_0401.txt is ok
+intervals_testcase_0402.txt is ok
+intervals_testcase_0403.txt is ok
+intervals_testcase_0404.txt is ok
+intervals_testcase_0405.txt is ok
+intervals_testcase_0406.txt is ok
+intervals_testcase_0407.txt is ok
+intervals_testcase_0408.txt is ok
+intervals_testcase_0409.txt is ok
+intervals_testcase_0410.txt is ok
+intervals_testcase_0411.txt is ok
+intervals_testcase_0412.txt is ok
+intervals_testcase_0413.txt is ok
+intervals_testcase_0414.txt is ok
+intervals_testcase_0415.txt is ok
+intervals_testcase_0416.txt is ok
+intervals_testcase_0417.txt is ok
+intervals_testcase_0418.txt is ok
+intervals_testcase_0419.txt is ok
+intervals_testcase_0420.txt is ok
+intervals_testcase_0421.txt is ok
+intervals_testcase_0422.txt is ok
+intervals_testcase_0423.txt is ok
+intervals_testcase_0424.txt is ok
+intervals_testcase_0425.txt is ok
+test case: intervals_testcase_0426.txt
+
+Output From intervals_v1.exe
+
+134 1393
+
+Output From intervals_v2.exe
+
+134 1372
+
+
+
+
+intervals_testcase_0427.txt is ok
+intervals_testcase_0428.txt is ok
+intervals_testcase_0429.txt is ok
+intervals_testcase_0430.txt is ok
+test case: intervals_testcase_0431.txt
+
+Output From intervals_v1.exe
+
+13 1428
+
+Output From intervals_v2.exe
+
+13
+
+
+
+
+intervals_testcase_0432.txt is ok
+intervals_testcase_0433.txt is ok
+intervals_testcase_0434.txt is ok
+intervals_testcase_0435.txt is ok
+intervals_testcase_0436.txt is ok
+intervals_testcase_0437.txt is ok
+intervals_testcase_0438.txt is ok
+intervals_testcase_0439.txt is ok
+intervals_testcase_0440.txt is ok
+intervals_testcase_0441.txt is ok
+intervals_testcase_0442.txt is ok
+intervals_testcase_0443.txt is ok
+intervals_testcase_0444.txt is ok
+intervals_testcase_0445.txt is ok
+intervals_testcase_0446.txt is ok
+intervals_testcase_0447.txt is ok
+intervals_testcase_0448.txt is ok
+intervals_testcase_0449.txt is ok
+intervals_testcase_0450.txt is ok
+intervals_testcase_0451.txt is ok
+intervals_testcase_0452.txt is ok
+intervals_testcase_0453.txt is ok
+intervals_testcase_0454.txt is ok
+intervals_testcase_0455.txt is ok
+intervals_testcase_0456.txt is ok
+intervals_testcase_0457.txt is ok
+intervals_testcase_0458.txt is ok
+intervals_testcase_0459.txt is ok
+intervals_testcase_0460.txt is ok
+intervals_testcase_0461.txt is ok
+intervals_testcase_0462.txt is ok
+test case: intervals_testcase_0463.txt
+
+Output From intervals_v1.exe
+
+17 1439
+
+Output From intervals_v2.exe
+
+17
+
+
+
+
+intervals_testcase_0464.txt is ok
+intervals_testcase_0465.txt is ok
+intervals_testcase_0466.txt is ok
+intervals_testcase_0467.txt is ok
+intervals_testcase_0468.txt is ok
+intervals_testcase_0469.txt is ok
+intervals_testcase_0470.txt is ok
+intervals_testcase_0471.txt is ok
+intervals_testcase_0472.txt is ok
+intervals_testcase_0473.txt is ok
+intervals_testcase_0474.txt is ok
+intervals_testcase_0475.txt is ok
+intervals_testcase_0476.txt is ok
+intervals_testcase_0477.txt is ok
+intervals_testcase_0478.txt is ok
+intervals_testcase_0479.txt is ok
+intervals_testcase_0480.txt is ok
+intervals_testcase_0481.txt is ok
+intervals_testcase_0482.txt is ok
+intervals_testcase_0483.txt is ok
+intervals_testcase_0484.txt is ok
+intervals_testcase_0485.txt is ok
+intervals_testcase_0486.txt is ok
+intervals_testcase_0487.txt is ok
+intervals_testcase_0488.txt is ok
+intervals_testcase_0489.txt is ok
+intervals_testcase_0490.txt is ok
+intervals_testcase_0491.txt is ok
+intervals_testcase_0492.txt is ok
+intervals_testcase_0493.txt is ok
+intervals_testcase_0494.txt is ok
+test case: intervals_testcase_0495.txt
+
+Output From intervals_v1.exe
+
+226 1315
+
+Output From intervals_v2.exe
+
+226 1253
+
+
+
+
+intervals_testcase_0496.txt is ok
+intervals_testcase_0497.txt is ok
+intervals_testcase_0498.txt is ok
+intervals_testcase_0499.txt is ok
+intervals_testcase_0500.txt is ok
+intervals_testcase_0501.txt is ok
+intervals_testcase_0502.txt is ok
+intervals_testcase_0503.txt is ok
+intervals_testcase_0504.txt is ok
+intervals_testcase_0505.txt is ok
+intervals_testcase_0506.txt is ok
+test case: intervals_testcase_0507.txt
+
+Output From intervals_v1.exe
+
+60 469
+785 1036
+1046 1431
+
+Output From intervals_v2.exe
+
+60 469
+785 931
+932 1036
+1046 1431
+
+
+
+
+intervals_testcase_0508.txt is ok
+intervals_testcase_0509.txt is ok
+intervals_testcase_0510.txt is ok
+intervals_testcase_0511.txt is ok
+intervals_testcase_0512.txt is ok
+intervals_testcase_0513.txt is ok
+intervals_testcase_0514.txt is ok
+test case: intervals_testcase_0515.txt
+
+Output From intervals_v1.exe
+
+240 1424
+
+Output From intervals_v2.exe
+
+240 1261
+1332 1390
+
+
+
+
+intervals_testcase_0516.txt is ok
+intervals_testcase_0517.txt is ok
+intervals_testcase_0518.txt is ok
+intervals_testcase_0519.txt is ok
+intervals_testcase_0520.txt is ok
+intervals_testcase_0521.txt is ok
+intervals_testcase_0522.txt is ok
+intervals_testcase_0523.txt is ok
+intervals_testcase_0524.txt is ok
+intervals_testcase_0525.txt is ok
+intervals_testcase_0526.txt is ok
+intervals_testcase_0527.txt is ok
+intervals_testcase_0528.txt is ok
+intervals_testcase_0529.txt is ok
+intervals_testcase_0530.txt is ok
+intervals_testcase_0531.txt is ok
+intervals_testcase_0532.txt is ok
+intervals_testcase_0533.txt is ok
+intervals_testcase_0534.txt is ok
+intervals_testcase_0535.txt is ok
+intervals_testcase_0536.txt is ok
+intervals_testcase_0537.txt is ok
+intervals_testcase_0538.txt is ok
+intervals_testcase_0539.txt is ok
+intervals_testcase_0540.txt is ok
+intervals_testcase_0541.txt is ok
+intervals_testcase_0542.txt is ok
+intervals_testcase_0543.txt is ok
+intervals_testcase_0544.txt is ok
+intervals_testcase_0545.txt is ok
+intervals_testcase_0546.txt is ok
+intervals_testcase_0547.txt is ok
+intervals_testcase_0548.txt is ok
+intervals_testcase_0549.txt is ok
+intervals_testcase_0550.txt is ok
+intervals_testcase_0551.txt is ok
+intervals_testcase_0552.txt is ok
+intervals_testcase_0553.txt is ok
+intervals_testcase_0554.txt is ok
+intervals_testcase_0555.txt is ok
+intervals_testcase_0556.txt is ok
+intervals_testcase_0557.txt is ok
+intervals_testcase_0558.txt is ok
+intervals_testcase_0559.txt is ok
+intervals_testcase_0560.txt is ok
+intervals_testcase_0561.txt is ok
+intervals_testcase_0562.txt is ok
+intervals_testcase_0563.txt is ok
+intervals_testcase_0564.txt is ok
+intervals_testcase_0565.txt is ok
+intervals_testcase_0566.txt is ok
+intervals_testcase_0567.txt is ok
+intervals_testcase_0568.txt is ok
+intervals_testcase_0569.txt is ok
+intervals_testcase_0570.txt is ok
+intervals_testcase_0571.txt is ok
+intervals_testcase_0572.txt is ok
+intervals_testcase_0573.txt is ok
+intervals_testcase_0574.txt is ok
+intervals_testcase_0575.txt is ok
+intervals_testcase_0576.txt is ok
+intervals_testcase_0577.txt is ok
+intervals_testcase_0578.txt is ok
+intervals_testcase_0579.txt is ok
+intervals_testcase_0580.txt is ok
+intervals_testcase_0581.txt is ok
+intervals_testcase_0582.txt is ok
+intervals_testcase_0583.txt is ok
+intervals_testcase_0584.txt is ok
+intervals_testcase_0585.txt is ok
+intervals_testcase_0586.txt is ok
+test case: intervals_testcase_0587.txt
+
+Output From intervals_v1.exe
+
+124 1435
+
+Output From intervals_v2.exe
+
+124
+
+
+
+
+intervals_testcase_0588.txt is ok
+intervals_testcase_0589.txt is ok
+intervals_testcase_0590.txt is ok
+intervals_testcase_0591.txt is ok
+intervals_testcase_0592.txt is ok
+intervals_testcase_0593.txt is ok
+intervals_testcase_0594.txt is ok
+intervals_testcase_0595.txt is ok
+intervals_testcase_0596.txt is ok
+intervals_testcase_0597.txt is ok
+intervals_testcase_0598.txt is ok
+intervals_testcase_0599.txt is ok
+intervals_testcase_0600.txt is ok
+intervals_testcase_0601.txt is ok
+intervals_testcase_0602.txt is ok
+intervals_testcase_0603.txt is ok
+intervals_testcase_0604.txt is ok
+intervals_testcase_0605.txt is ok
+intervals_testcase_0606.txt is ok
+intervals_testcase_0607.txt is ok
+intervals_testcase_0608.txt is ok
+intervals_testcase_0609.txt is ok
+test case: intervals_testcase_0610.txt
+
+Output From intervals_v1.exe
+
+1035 1438
+
+Output From intervals_v2.exe
+
+1035 1403
+
+
+
+
+intervals_testcase_0611.txt is ok
+intervals_testcase_0612.txt is ok
+intervals_testcase_0613.txt is ok
+intervals_testcase_0614.txt is ok
+intervals_testcase_0615.txt is ok
+intervals_testcase_0616.txt is ok
+test case: intervals_testcase_0617.txt
+
+Output From intervals_v1.exe
+
+295 1403
+
+Output From intervals_v2.exe
+
+295
+
+
+
+
+intervals_testcase_0618.txt is ok
+intervals_testcase_0619.txt is ok
+intervals_testcase_0620.txt is ok
+intervals_testcase_0621.txt is ok
+intervals_testcase_0622.txt is ok
+intervals_testcase_0623.txt is ok
+intervals_testcase_0624.txt is ok
+intervals_testcase_0625.txt is ok
+intervals_testcase_0626.txt is ok
+intervals_testcase_0627.txt is ok
+intervals_testcase_0628.txt is ok
+intervals_testcase_0629.txt is ok
+intervals_testcase_0630.txt is ok
+intervals_testcase_0631.txt is ok
+intervals_testcase_0632.txt is ok
+intervals_testcase_0633.txt is ok
+intervals_testcase_0634.txt is ok
+intervals_testcase_0635.txt is ok
+intervals_testcase_0636.txt is ok
+intervals_testcase_0637.txt is ok
+intervals_testcase_0638.txt is ok
+intervals_testcase_0639.txt is ok
+intervals_testcase_0640.txt is ok
+intervals_testcase_0641.txt is ok
+intervals_testcase_0642.txt is ok
+intervals_testcase_0643.txt is ok
+intervals_testcase_0644.txt is ok
+intervals_testcase_0645.txt is ok
+intervals_testcase_0646.txt is ok
+intervals_testcase_0647.txt is ok
+intervals_testcase_0648.txt is ok
+intervals_testcase_0649.txt is ok
+intervals_testcase_0650.txt is ok
+intervals_testcase_0651.txt is ok
+intervals_testcase_0652.txt is ok
+intervals_testcase_0653.txt is ok
+intervals_testcase_0654.txt is ok
+intervals_testcase_0655.txt is ok
+intervals_testcase_0656.txt is ok
+intervals_testcase_0657.txt is ok
+intervals_testcase_0658.txt is ok
+intervals_testcase_0659.txt is ok
+intervals_testcase_0660.txt is ok
+intervals_testcase_0661.txt is ok
+intervals_testcase_0662.txt is ok
+intervals_testcase_0663.txt is ok
+intervals_testcase_0664.txt is ok
+intervals_testcase_0665.txt is ok
+intervals_testcase_0666.txt is ok
+intervals_testcase_0667.txt is ok
+intervals_testcase_0668.txt is ok
+intervals_testcase_0669.txt is ok
+intervals_testcase_0670.txt is ok
+intervals_testcase_0671.txt is ok
+intervals_testcase_0672.txt is ok
+intervals_testcase_0673.txt is ok
+intervals_testcase_0674.txt is ok
+intervals_testcase_0675.txt is ok
+intervals_testcase_0676.txt is ok
+intervals_testcase_0677.txt is ok
+intervals_testcase_0678.txt is ok
+intervals_testcase_0679.txt is ok
+intervals_testcase_0680.txt is ok
+intervals_testcase_0681.txt is ok
+intervals_testcase_0682.txt is ok
+intervals_testcase_0683.txt is ok
+test case: intervals_testcase_0684.txt
+
+Output From intervals_v1.exe
+
+29 1323
+1421 1436
+
+Output From intervals_v2.exe
+
+29 1323
+1421
+
+
+
+
+intervals_testcase_0685.txt is ok
+intervals_testcase_0686.txt is ok
+intervals_testcase_0687.txt is ok
+intervals_testcase_0688.txt is ok
+intervals_testcase_0689.txt is ok
+intervals_testcase_0690.txt is ok
+intervals_testcase_0691.txt is ok
+intervals_testcase_0692.txt is ok
+intervals_testcase_0693.txt is ok
+intervals_testcase_0694.txt is ok
+intervals_testcase_0695.txt is ok
+intervals_testcase_0696.txt is ok
+intervals_testcase_0697.txt is ok
+intervals_testcase_0698.txt is ok
+intervals_testcase_0699.txt is ok
+intervals_testcase_0700.txt is ok
+intervals_testcase_0701.txt is ok
+intervals_testcase_0702.txt is ok
+intervals_testcase_0703.txt is ok
+intervals_testcase_0704.txt is ok
+intervals_testcase_0705.txt is ok
+intervals_testcase_0706.txt is ok
+intervals_testcase_0707.txt is ok
+test case: intervals_testcase_0708.txt
+
+Output From intervals_v1.exe
+
+106 1404
+
+Output From intervals_v2.exe
+
+106
+
+
+
+
+intervals_testcase_0709.txt is ok
+intervals_testcase_0710.txt is ok
+intervals_testcase_0711.txt is ok
+intervals_testcase_0712.txt is ok
+intervals_testcase_0713.txt is ok
+intervals_testcase_0714.txt is ok
+intervals_testcase_0715.txt is ok
+intervals_testcase_0716.txt is ok
+intervals_testcase_0717.txt is ok
+intervals_testcase_0718.txt is ok
+intervals_testcase_0719.txt is ok
+test case: intervals_testcase_0720.txt
+
+Output From intervals_v1.exe
+
+702 705
+852 1427
+1430 1437
+
+Output From intervals_v2.exe
+
+702 705
+852
+
+
+
+
+intervals_testcase_0721.txt is ok
+intervals_testcase_0722.txt is ok
+intervals_testcase_0723.txt is ok
+intervals_testcase_0724.txt is ok
+intervals_testcase_0725.txt is ok
+intervals_testcase_0726.txt is ok
+intervals_testcase_0727.txt is ok
+intervals_testcase_0728.txt is ok
+intervals_testcase_0729.txt is ok
+intervals_testcase_0730.txt is ok
+intervals_testcase_0731.txt is ok
+intervals_testcase_0732.txt is ok
+intervals_testcase_0733.txt is ok
+intervals_testcase_0734.txt is ok
+intervals_testcase_0735.txt is ok
+intervals_testcase_0736.txt is ok
+intervals_testcase_0737.txt is ok
+intervals_testcase_0738.txt is ok
+intervals_testcase_0739.txt is ok
+test case: intervals_testcase_0740.txt
+
+Output From intervals_v1.exe
+
+30 1377
+
+Output From intervals_v2.exe
+
+30
+
+
+
+
+intervals_testcase_0741.txt is ok
+intervals_testcase_0742.txt is ok
+intervals_testcase_0743.txt is ok
+intervals_testcase_0744.txt is ok
+intervals_testcase_0745.txt is ok
+intervals_testcase_0746.txt is ok
+intervals_testcase_0747.txt is ok
+intervals_testcase_0748.txt is ok
+intervals_testcase_0749.txt is ok
+intervals_testcase_0750.txt is ok
+intervals_testcase_0751.txt is ok
+intervals_testcase_0752.txt is ok
+intervals_testcase_0753.txt is ok
+intervals_testcase_0754.txt is ok
+intervals_testcase_0755.txt is ok
+intervals_testcase_0756.txt is ok
+intervals_testcase_0757.txt is ok
+intervals_testcase_0758.txt is ok
+intervals_testcase_0759.txt is ok
+intervals_testcase_0760.txt is ok
+intervals_testcase_0761.txt is ok
+intervals_testcase_0762.txt is ok
+intervals_testcase_0763.txt is ok
+intervals_testcase_0764.txt is ok
+intervals_testcase_0765.txt is ok
+intervals_testcase_0766.txt is ok
+intervals_testcase_0767.txt is ok
+intervals_testcase_0768.txt is ok
+intervals_testcase_0769.txt is ok
+intervals_testcase_0770.txt is ok
+intervals_testcase_0771.txt is ok
+intervals_testcase_0772.txt is ok
+intervals_testcase_0773.txt is ok
+intervals_testcase_0774.txt is ok
+intervals_testcase_0775.txt is ok
+intervals_testcase_0776.txt is ok
+intervals_testcase_0777.txt is ok
+intervals_testcase_0778.txt is ok
+intervals_testcase_0779.txt is ok
+intervals_testcase_0780.txt is ok
+intervals_testcase_0781.txt is ok
+intervals_testcase_0782.txt is ok
+intervals_testcase_0783.txt is ok
+intervals_testcase_0784.txt is ok
+intervals_testcase_0785.txt is ok
+intervals_testcase_0786.txt is ok
+intervals_testcase_0787.txt is ok
+intervals_testcase_0788.txt is ok
+test case: intervals_testcase_0789.txt
+
+Output From intervals_v1.exe
+
+16 1350
+1406 1414
+
+Output From intervals_v2.exe
+
+16
+
+
+
+
+intervals_testcase_0790.txt is ok
+intervals_testcase_0791.txt is ok
+intervals_testcase_0792.txt is ok
+intervals_testcase_0793.txt is ok
+intervals_testcase_0794.txt is ok
+intervals_testcase_0795.txt is ok
+intervals_testcase_0796.txt is ok
+intervals_testcase_0797.txt is ok
+intervals_testcase_0798.txt is ok
+intervals_testcase_0799.txt is ok
+intervals_testcase_0800.txt is ok
+intervals_testcase_0801.txt is ok
+intervals_testcase_0802.txt is ok
+intervals_testcase_0803.txt is ok
+intervals_testcase_0804.txt is ok
+intervals_testcase_0805.txt is ok
+intervals_testcase_0806.txt is ok
+intervals_testcase_0807.txt is ok
+intervals_testcase_0808.txt is ok
+intervals_testcase_0809.txt is ok
+intervals_testcase_0810.txt is ok
+intervals_testcase_0811.txt is ok
+intervals_testcase_0812.txt is ok
+intervals_testcase_0813.txt is ok
+intervals_testcase_0814.txt is ok
+intervals_testcase_0815.txt is ok
+intervals_testcase_0816.txt is ok
+intervals_testcase_0817.txt is ok
+intervals_testcase_0818.txt is ok
+intervals_testcase_0819.txt is ok
+intervals_testcase_0820.txt is ok
+intervals_testcase_0821.txt is ok
+intervals_testcase_0822.txt is ok
+test case: intervals_testcase_0823.txt
+
+Output From intervals_v1.exe
+
+177 1431
+
+Output From intervals_v2.exe
+
+177
+
+
+
+
+intervals_testcase_0824.txt is ok
+intervals_testcase_0825.txt is ok
+intervals_testcase_0826.txt is ok
+intervals_testcase_0827.txt is ok
+intervals_testcase_0828.txt is ok
+intervals_testcase_0829.txt is ok
+intervals_testcase_0830.txt is ok
+intervals_testcase_0831.txt is ok
+intervals_testcase_0832.txt is ok
+intervals_testcase_0833.txt is ok
+intervals_testcase_0834.txt is ok
+intervals_testcase_0835.txt is ok
+intervals_testcase_0836.txt is ok
+intervals_testcase_0837.txt is ok
+intervals_testcase_0838.txt is ok
+intervals_testcase_0839.txt is ok
+intervals_testcase_0840.txt is ok
+intervals_testcase_0841.txt is ok
+intervals_testcase_0842.txt is ok
+intervals_testcase_0843.txt is ok
+intervals_testcase_0844.txt is ok
+intervals_testcase_0845.txt is ok
+intervals_testcase_0846.txt is ok
+intervals_testcase_0847.txt is ok
+intervals_testcase_0848.txt is ok
+intervals_testcase_0849.txt is ok
+intervals_testcase_0850.txt is ok
+intervals_testcase_0851.txt is ok
+intervals_testcase_0852.txt is ok
+intervals_testcase_0853.txt is ok
+intervals_testcase_0854.txt is ok
+intervals_testcase_0855.txt is ok
+intervals_testcase_0856.txt is ok
+intervals_testcase_0857.txt is ok
+intervals_testcase_0858.txt is ok
+intervals_testcase_0859.txt is ok
+intervals_testcase_0860.txt is ok
+intervals_testcase_0861.txt is ok
+intervals_testcase_0862.txt is ok
+intervals_testcase_0863.txt is ok
+intervals_testcase_0864.txt is ok
+intervals_testcase_0865.txt is ok
+intervals_testcase_0866.txt is ok
+intervals_testcase_0867.txt is ok
+intervals_testcase_0868.txt is ok
+intervals_testcase_0869.txt is ok
+intervals_testcase_0870.txt is ok
+intervals_testcase_0871.txt is ok
+intervals_testcase_0872.txt is ok
+intervals_testcase_0873.txt is ok
+intervals_testcase_0874.txt is ok
+intervals_testcase_0875.txt is ok
+intervals_testcase_0876.txt is ok
+intervals_testcase_0877.txt is ok
+intervals_testcase_0878.txt is ok
+intervals_testcase_0879.txt is ok
+intervals_testcase_0880.txt is ok
+intervals_testcase_0881.txt is ok
+intervals_testcase_0882.txt is ok
+intervals_testcase_0883.txt is ok
+intervals_testcase_0884.txt is ok
+intervals_testcase_0885.txt is ok
+intervals_testcase_0886.txt is ok
+intervals_testcase_0887.txt is ok
+intervals_testcase_0888.txt is ok
+intervals_testcase_0889.txt is ok
+intervals_testcase_0890.txt is ok
+intervals_testcase_0891.txt is ok
+intervals_testcase_0892.txt is ok
+intervals_testcase_0893.txt is ok
+intervals_testcase_0894.txt is ok
+intervals_testcase_0895.txt is ok
+intervals_testcase_0896.txt is ok
+intervals_testcase_0897.txt is ok
+intervals_testcase_0898.txt is ok
+intervals_testcase_0899.txt is ok
+intervals_testcase_0900.txt is ok
+test case: intervals_testcase_0901.txt
+
+Output From intervals_v1.exe
+
+298 307
+570 1036
+1418 1427
+
+Output From intervals_v2.exe
+
+298 307
+570 1036
+1418 1425
+
+
+
+
+intervals_testcase_0902.txt is ok
+intervals_testcase_0903.txt is ok
+intervals_testcase_0904.txt is ok
+intervals_testcase_0905.txt is ok
+intervals_testcase_0906.txt is ok
+intervals_testcase_0907.txt is ok
+intervals_testcase_0908.txt is ok
+test case: intervals_testcase_0909.txt
+
+Output From intervals_v1.exe
+
+401 752
+883 1208
+1403 1414
+1420 1424
+
+Output From intervals_v2.exe
+
+401 752
+883 1041
+1145 1208
+1403 1414
+1420 1424
+
+
+
+
+intervals_testcase_0910.txt is ok
+intervals_testcase_0911.txt is ok
+intervals_testcase_0912.txt is ok
+intervals_testcase_0913.txt is ok
+intervals_testcase_0914.txt is ok
+intervals_testcase_0915.txt is ok
+intervals_testcase_0916.txt is ok
+intervals_testcase_0917.txt is ok
+intervals_testcase_0918.txt is ok
+test case: intervals_testcase_0919.txt
+
+Output From intervals_v1.exe
+
+332 1333
+1422 1427
+
+Output From intervals_v2.exe
+
+332
+
+
+
+
+intervals_testcase_0920.txt is ok
+intervals_testcase_0921.txt is ok
+intervals_testcase_0922.txt is ok
+intervals_testcase_0923.txt is ok
+intervals_testcase_0924.txt is ok
+intervals_testcase_0925.txt is ok
+intervals_testcase_0926.txt is ok
+intervals_testcase_0927.txt is ok
+intervals_testcase_0928.txt is ok
+intervals_testcase_0929.txt is ok
+intervals_testcase_0930.txt is ok
+intervals_testcase_0931.txt is ok
+intervals_testcase_0932.txt is ok
+intervals_testcase_0933.txt is ok
+intervals_testcase_0934.txt is ok
+intervals_testcase_0935.txt is ok
+intervals_testcase_0936.txt is ok
+intervals_testcase_0937.txt is ok
+intervals_testcase_0938.txt is ok
+intervals_testcase_0939.txt is ok
+intervals_testcase_0940.txt is ok
+intervals_testcase_0941.txt is ok
+intervals_testcase_0942.txt is ok
+intervals_testcase_0943.txt is ok
+intervals_testcase_0944.txt is ok
+intervals_testcase_0945.txt is ok
+intervals_testcase_0946.txt is ok
+intervals_testcase_0947.txt is ok
+intervals_testcase_0948.txt is ok
+intervals_testcase_0949.txt is ok
+intervals_testcase_0950.txt is ok
+intervals_testcase_0951.txt is ok
+intervals_testcase_0952.txt is ok
+intervals_testcase_0953.txt is ok
+intervals_testcase_0954.txt is ok
+intervals_testcase_0955.txt is ok
+intervals_testcase_0956.txt is ok
+intervals_testcase_0957.txt is ok
+intervals_testcase_0958.txt is ok
+intervals_testcase_0959.txt is ok
+intervals_testcase_0960.txt is ok
+intervals_testcase_0961.txt is ok
+intervals_testcase_0962.txt is ok
+intervals_testcase_0963.txt is ok
+intervals_testcase_0964.txt is ok
+intervals_testcase_0965.txt is ok
+intervals_testcase_0966.txt is ok
+intervals_testcase_0967.txt is ok
+intervals_testcase_0968.txt is ok
+intervals_testcase_0969.txt is ok
+intervals_testcase_0970.txt is ok
+intervals_testcase_0971.txt is ok
+intervals_testcase_0972.txt is ok
+intervals_testcase_0973.txt is ok
+intervals_testcase_0974.txt is ok
+intervals_testcase_0975.txt is ok
+intervals_testcase_0976.txt is ok
+intervals_testcase_0977.txt is ok
+intervals_testcase_0978.txt is ok
+intervals_testcase_0979.txt is ok
+intervals_testcase_0980.txt is ok
+test case: intervals_testcase_0981.txt
+
+Output From intervals_v1.exe
+
+183 1245
+
+Output From intervals_v2.exe
+
+183
+
+
+
+
+intervals_testcase_0982.txt is ok
+intervals_testcase_0983.txt is ok
+intervals_testcase_0984.txt is ok
+intervals_testcase_0985.txt is ok
+intervals_testcase_0986.txt is ok
+intervals_testcase_0987.txt is ok
+intervals_testcase_0988.txt is ok
+intervals_testcase_0989.txt is ok
+intervals_testcase_0990.txt is ok
+intervals_testcase_0991.txt is ok
+intervals_testcase_0992.txt is ok
+intervals_testcase_0993.txt is ok
+intervals_testcase_0994.txt is ok
+intervals_testcase_0995.txt is ok
+intervals_testcase_0996.txt is ok
+intervals_testcase_0997.txt is ok
+intervals_testcase_0998.txt is ok
+intervals_testcase_0999.txt is ok
